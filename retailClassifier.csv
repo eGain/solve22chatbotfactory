@@ -1,0 +1,79 @@
+intent,text
+PRODUCTS,are there any new releases of products
+PRODUCTS,are there any recalls
+PROMOTIONS,are you offering any sales
+GET_IN_TOUCH,can i chat with a live person
+GET_IN_TOUCH,can i email a question to you
+PROMOTIONS,can i get a coupon for an online purchase
+None,can i jump to the moon in one hop
+RETURNS,can i mail in a return without a label
+RETURNS,can i make a return from an online purchase in store
+RETURNS,can i return an online order in store
+RETURNS,can i take back a defective item
+RETURNS,do i need a receipt to make a return
+PROMOTIONS,do you have any bogo options
+PROMOTIONS,do you have any good deals going on
+PROMOTIONS,do you have any online promotions available
+PRODUCTS,do you have holiday gifts or mothers and fathers day gifts
+PRODUCTS,do you have merchandise available in store that isnt online
+PROMOTIONS,do you offer any back to school or holiday sales
+PRODUCTS,do you sell mens pants or vend work tools
+PROMOTIONS,how can i get free samples
+ORDERS,how can i place an order online
+ORDERS,how do i cancel an order ive made
+ORDERS,how do i find the order number or track it
+RETURNS,how do i get the money redeemed from the purchase during a return
+PROMOTIONS,how do i redeem a coupon i got
+RETURNS,how do i return something i dont want anymore
+PRODUCTS,how many items do you have available
+ORDERS,i need to change something i previously bought
+RETURNS,i need to make a return
+ORDERS,i purchased something and need to cancel it
+ORDERS,i think the delivery of my order was wrong or was changed
+GET_IN_TOUCH,i want to a talk to a manager
+PRODUCTS,im looking for a specific product or item
+ORDERS,im seeing my order has shipped but didnt get anything
+ORDERS,im trying to track an order i made on your website
+PROMOTIONS,is there a promotional page on your website
+GET_IN_TOUCH,speak to an agent
+GET_IN_TOUCH,talk to a manager
+PROMOTIONS,what are your current sales
+PRODUCTS,what can i do with a product from your store i have a question about
+ORDERS,what information do i need to give to order something online
+None,what is on a pizza
+PROMOTIONS,what is the best deal you have to offer on some specific item
+None,what is the best place to a haircut in town
+PROMOTIONS,what is the best promotional rate i can get
+PROMOTIONS,what is the best sale you have going on right now
+ORDERS,what is the best way to get a gift order
+None,what is the capital of nevada
+ORDERS,what is the delivery address for my recent purchase
+None,what is the longest jump of all time
+PRODUCTS,what is the top rated product you sell
+None,what is the weather like today
+GET_IN_TOUCH,what is the website address or webpage
+PRODUCTS,what is your best selling item
+GET_IN_TOUCH,what is your phone number for calling or texting
+PRODUCTS,what kind of goods or industries do you work with
+PRODUCTS,what products do you offer
+PROMOTIONS,what promos do you have
+PRODUCTS,what sort of products do you offer
+None,when were you born
+None,where can i get a good sandwich
+PROMOTIONS,where can i get a promotional code for your website
+RETURNS,where can i get a shipping label for a return
+None,where can i go to a get a car wash
+GET_IN_TOUCH,where can i go to send information to a representative
+ORDERS,where can i see how my purchase is being shipped
+RETURNS,where can we send back an item that is recalled
+RETURNS,where do i return the item to is there an address
+PROMOTIONS,where do i sign up for a flyer to get sales and promotions
+None,where do spaceships go off to
+PRODUCTS,where do you list your products available on your website
+None,where do you play baseball
+None,where is key west located
+ORDERS,where is my most recent order
+GET_IN_TOUCH,where is your email address
+GET_IN_TOUCH,who do i chat with to discuss a problem
+None,who does mark mcguire play for
+ORDERS,why havent i receieved my order yet
