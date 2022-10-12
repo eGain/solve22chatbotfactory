@@ -2,6 +2,10 @@ Overview
 
 This repository includes files for eGain Solve22 Chatbot factory. 
 
+Envionment URL:
+
+https://lv4.egain.cloud/system/web/apps/consoles/
+
 Chatbot factory usernames, portals and casebases
 
 Username	     Portal ID	    CaseBase ID	Entry point ID
